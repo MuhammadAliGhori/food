@@ -1,0 +1,113 @@
+* {
+  font-family: Montserrat;
+  font-style: normal;
+}
+
+/* scrollbar */
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 17px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #69bd39;
+  width: 10px !important;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #7eff1b;
+  border-radius: 14px;
+  border: 3px solid var(--primary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--tertiary);
+  width: 10px !important;
+}
+/* scrollbarend */
+.gray {
+  color: #575656 !important;
+}
+p {
+  color: #575656 !important;
+}
+.green {
+  color: #70af50 !important;
+}
+.w-50 {
+  width: 50%;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+
+/* custom-swiper-arrows.css */
+
+.w-60 {
+  width: 60%;
+  padding: 0px 20px !important;
+}
+
+.togle_btn {
+  outline: none !important;
+  border: 0 !important;
+}
+.togle_btn:active {
+  outline: none !important;
+  border: 0 !important;
+  background-color: transparent !important;
+}
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: transparent !important;
+  border: 0 !important;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0 !important;
+}
+.custom-swiper-button-next {
+  right: 15px !important;
+}
+
+.custom-swiper-button-prev {
+  left: 20px !important;
+}
+
+@media only screen and (max-width: 1200px) {
+  .w-60 {
+    width: 67%;
+  }
+}
+
+.slider_global_classes {
+  background-color: #70af50;
+  color: #fff !important;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 22px !important;
+}
+.slider_global_classes:after {
+  font-size: 22px !important;
+}
+
+
+
+
+/* only for meals  */
+.nav-tabs .nav-link{
+  color: #70af50;
+  font-weight: 600;
+}
+.nav-tabs .nav-link:hover{
+  color: #70af50 ;
+}

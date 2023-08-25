@@ -1,0 +1,741 @@
+.gray {
+  color: #575656 !important;
+}
+
+.green {
+  color: #70af50 !important;
+}
+.w-50 {
+  width: 50%;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+
+/* .deliver_hero {
+  background-color: #70af50;
+} */
+.logo {
+  max-width: 100px;
+  left: 2.5rem;
+  top: 22px;
+  z-index: 9999;
+}
+.deliver_para {
+  padding: 20px 20px;
+  background-color: #6ea853;
+  /* position: sticky; */
+  /* top: 0; */
+  /* z-index: 1; */
+}
+.header_main {
+  background-image: url("https://prepuk.com/wp-content/uploads/2020/12/Hero.jpg");
+  /* height: 93.5vh; */
+  width: 100%;
+  background-repeat: no-repeat;
+  object-fit: fill;
+  padding-bottom: 55px;
+  margin-bottom: 70px;
+}
+.header_content {
+  width: 50%;
+  padding-left: 3rem;
+  padding-top: 5rem;
+}
+.effortless {
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: bold;
+  margin-top: 55px;
+}
+.subheader {
+  font-size: 26px;
+  line-height: 35px;
+}
+.meal_news_hero {
+  padding: 50px;
+}
+.prepbtn {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  border-radius: 2em;
+  padding: 10px 30px;
+  background: #70af50;
+  border: 2px solid #ffffff;
+  color: #ffffff !important;
+  box-shadow: 0 0em 0em rgba(0, 0, 0, 0.2);
+}
+.paypal_img {
+  max-width: 200px;
+  margin-top: 33px;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 40px;
+}
+.card_main {
+  max-width: 300px;
+  width: 100%;
+  padding: 0px 15px;
+}
+.preplink {
+  margin-left: -70px;
+}
+.card_header {
+  font-size: 28px;
+  letter-spacing: -1px;
+  color: #575656 !important;
+}
+.card_para {
+  color: #575656;
+  font-size: 22px;
+}
+.card_img {
+  height: 130px;
+  object-fit: contain;
+}
+.card_bundles {
+  max-width: 370px;
+  width: 100%;
+}
+.new_meals_post {
+  object-fit: contain;
+  width: 100%;
+}
+.our_meals {
+  color: #575656;
+  font-weight: bold;
+  font-size: 72px;
+}
+.main_tab {
+  gap: 20px;
+  z-index: 0;
+}
+.every_tab {
+  background-color: transparent !important;
+}
+.every_tab.active {
+  border-bottom: 3px solid #70af50 !important;
+  width: 180px !important;
+}
+.cards_hero {
+  justify-content: space-between;
+  max-width: 1250px;
+  width: 100%;
+}
+.muscle_main {
+  background-color: #eeeeee;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+}
+.veg_img {
+  max-width: 110px;
+}
+.f-20 {
+  font-size: 20px !important;
+}
+.calories {
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+}
+.halal {
+  width: 40px;
+  right: -13px;
+  top: -20px;
+}
+
+/* about prepuk */
+.about_main {
+  background-image: url("https://prepuk.com/wp-content/uploads/2020/12/Abou5.jpg");
+  padding: 50px 40px;
+}
+.slide_image {
+  height: 350px;
+  width: 100%;
+  object-fit: contain;
+}
+.about_header {
+  font-weight: bold;
+  font-size: 72px;
+}
+.about_para {
+  font-size: 20px;
+}
+.about_btn {
+  font-size: 1rem;
+  line-height: 1.2 !important;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  border-radius: 2em;
+  padding: 0.8em 1.8em;
+  background: transparent;
+  /* background: #70af50; */
+  border-color: #ffffff;
+  color: #ffffff !important;
+  box-shadow: 0 0em 0em rgba(0, 0, 0, 0.2);
+  border: 2px solid white;
+}
+.celeb_img {
+  object-fit: cover;
+  width: 100%;
+}
+.celeb_name {
+  color: #70af50;
+  font-size: 24px;
+}
+.card_header {
+  font-size: 24px;
+  letter-spacing: 0.3px;
+}
+.card_para {
+  font-size: 18px;
+  line-height: 24px;
+}
+.meal_head {
+  text-transform: uppercase;
+  font-size: 38px;
+}
+.meal_para {
+  font-size: 20px;
+}
+.signup_hero {
+  padding: 49px 50px;
+  /* background-color: #e5e5e5; */
+  border-top-left-radius: 50px !important;
+  border-bottom-left-radius: 50px !important;
+}
+.form_img {
+  background-size: contain;
+  background-position: center;
+  height: -webkit-fill-available;
+}
+.bold1 {
+  padding: 0px 90px !important;
+}
+.sign_header {
+  font-size: 45px;
+  font-weight: bold;
+  color: #1b1b1d;
+  line-height: 55px;
+}
+.signup_btn {
+  font-size: 1rem;
+  text-transform: uppercase;
+  border-radius: 2em;
+  padding: 0.8em 1.8em;
+  box-shadow: 0 0em 0em rgba(0, 0, 0, 0.2);
+  background: #70af50;
+}
+.design_input {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0em;
+  border-width: 0px;
+  border-radius: 10px;
+  background: #f2f2f2;
+  border: 1px solid #c4c3c3;
+  color: #000000;
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.08) inset;
+  padding: 13px 12px;
+}
+.design_input:focus {
+  outline: none;
+}
+.footer_hero {
+  background-color: #75b157;
+  padding: 50px;
+}
+.footer_boxes {
+  width: 33%;
+  align-items: center;
+}
+.footer_para {
+  font-size: 18px;
+  letter-spacing: 0.3;
+  line-height: 30px;
+}
+.footer_logo {
+  width: 150px;
+}
+.fixnavbar {
+  margin-top: 50px;
+}
+.socialIcons {
+  padding: 0px 20px;
+}
+.social_media {
+  width: 35px;
+  height: 35px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 20px;
+  color: #70af50;
+  font-size: 18px;
+}
+.rightbar_header {
+  right: 10px;
+  top: 45px;
+  background-color: transparent;
+}
+.basket_para {
+  min-width: 313px;
+  right: 1px;
+  top: 7px;
+  display: flex;
+  padding: 5px 10px;
+}
+
+/* .newsslide{
+  display: flex;
+  justify-content: center;
+} */
+.mainsld {
+  max-width: 90%;
+}
+.faq_btn:focus {
+  outline: none;
+  border: 0px;
+}
+
+.togle_btn span {
+  display: block;
+  width: 26px;
+  height: 2px;
+  background-color: white;
+  margin-bottom: 5px;
+  transition: transform 0.3s;
+}
+
+.togle_btn.active span:nth-child(1) {
+  transform: rotate(-45deg) translate(-3px, 5px);
+}
+
+.togle_btn.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.togle_btn.active span:nth-child(3) {
+  transform: rotate(45deg) translate(-3px, -5px);
+}
+/* swiper-custom.css */
+
+.sw1 {
+  padding: 23px;
+  color: #fff !important;
+  top: 45px !important;
+  font-weight: 700;
+  right: 28px !important;
+}
+.sw2 {
+  padding: 23px;
+  color: #fff !important;
+  top: 45px !important;
+  font-weight: 700;
+  left: 28px !important;
+}
+
+.pr1 {
+  padding: 23px;
+  color: #fff !important;
+  top: 45px !important;
+  font-weight: 700;
+  right: 14px !important;
+}
+.pr2 {
+  padding: 23px;
+  color: #fff !important;
+  top: 45px !important;
+  font-weight: 700;
+  left: 14px !important;
+}
+.ab1 {
+  padding: 23px;
+  color: #fff !important;
+  top: 50% !important;
+  font-weight: 700;
+  right: 4px !important;
+}
+.ab2 {
+  padding: 23px;
+  color: #fff !important;
+  top: 50% !important;
+  font-weight: 700;
+  left: 4px !important;
+}
+.ab1,
+.ab2 {
+  padding: 23px;
+  color: #fff !important;
+  font-weight: 700;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.pr1,
+.pr2 {
+  opacity: 0;
+}
+.bold2 {
+  width: 50%;
+}
+.mainslidenews {
+  max-width: 1650px;
+  width: 100%;
+  padding: 0px 70px;
+}
+.nav2 {
+  display: none !important;
+}
+/* media queries started 1440 */
+@media only screen and (max-width: 1440px) {
+  .effortless {
+    font-size: 45px;
+    line-height: 55px;
+  }
+  .our_meals,
+  .about_header {
+    font-size: 45px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .preplink {
+    margin-left: 0px;
+  }
+  .footer_hero {
+    flex-wrap: wrap;
+  }
+  .footer_boxes {
+    width: 50%;
+    margin-bottom: 30px;
+    align-items: start;
+  }
+  .header_content {
+    width: 70%;
+  }
+  .rightbar_header {
+    right: 40px;
+  }
+  .effortless {
+    margin-top: 90px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .bold1 {
+    padding: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .mainslidenews {
+    padding: 0px 20px;
+  }
+  .fixnavbar {
+    margin-top: 55px;
+    padding-bottom: 12px;
+  }
+  .socialIcons {
+    padding: 23px 20px;
+  }
+  .checked_hero {
+    flex-wrap: wrap;
+  }
+  .sign_header {
+    font-size: 30px;
+    line-height: 33px;
+  }
+  .form_img {
+    object-fit: contain;
+    height: 400px;
+    background-color: #6ea853;
+  }
+  .rightbar_header {
+    right: 0px;
+  }
+  .celeb_name {
+    font-size: 14px;
+  }
+
+  .customSwiperNavigation {
+    z-index: 999;
+  }
+  .about_header {
+    margin-top: 30px;
+  }
+  .meal_head {
+    font-size: 30px;
+  }
+  .meals_cards_hero {
+    padding: 0px 40px;
+    gap: 25px !important;
+  }
+
+  .every_tab.active,
+  .every_tab {
+    width: 170px !important;
+  }
+  .maintain_header {
+    font-size: 20px;
+  }
+  .fruit_img {
+    max-width: 100px;
+  }
+  .fuit_hero {
+    max-width: 170px;
+  }
+  .tabs_box {
+    padding: 0px 35px;
+  }
+
+  .togle_btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0;
+    outline: none;
+    transition: transform 0.3s;
+    position: absolute;
+    right: 4rem;
+    top: 70px;
+    z-index: 2;
+  }
+
+  .header_content {
+    width: 90%;
+    padding-left: 2.5rem;
+    padding-top: 5rem;
+  }
+  .effortless {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .effort_icon {
+    width: 60px;
+  }
+
+  .sidebar_hero {
+    background-color: #fff;
+    text-align: left;
+    top: 8rem;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    padding: 20px 20px;
+  }
+  .card_header {
+    font-size: 18px;
+  }
+  .card_para {
+    font-size: 15px;
+    line-height: 20px;
+    padding-right: 7px;
+  }
+  .footer_boxes {
+    width: 100%;
+  }
+  .footer_hero {
+    padding: 0px 30px;
+    padding-top: 40px;
+  }
+  /* .basket_para {
+    left: 6rem;
+    top: -43px;
+  } */
+}
+@media only screen and (max-width: 768px) {
+  .fixnavbar {
+    margin-top: 38px;
+  }
+  .basket_para {
+    left: -16rem;
+    top: 12px;
+  }
+  .signup_hero {
+    padding: 35px 30px;
+  }
+  .meal_news_hero {
+    padding: 40px 30px;
+  }
+  .our_meals,
+  .about_header {
+    font-size: 30px;
+  }
+  .cards_hero {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  .deliver_hero {
+    padding: 0px 70px !important;
+  }
+  .logo {
+    /* max-width: 60px; */
+    top: 61px;
+    max-width: 70px;
+  }
+  .deliver_para {
+    font-size: 14px;
+  }
+  .togle_btn {
+    position: absolute;
+    right: 4rem;
+    z-index: 2 !important;
+  }
+
+  .header_content {
+    padding: 25px;
+    width: 100%;
+  }
+  .subheader {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .prepbtn {
+    padding: 6px 20px;
+    font-size: 12px;
+  }
+  .paypal_img {
+    margin-top: 55px;
+  }
+  .card_main,
+  .card_bundles {
+    max-width: 200px;
+  }
+
+  .card_bundles {
+    max-width: 240px;
+  }
+  .effortless {
+    margin-top: 150px;
+  }
+  .deliver_para {
+    padding: 10px 20px;
+  }
+  .sidebar_hero {
+    top: 6.7rem;
+  }
+  .nav2 {
+    display: block !important;
+  }
+  .nav1 {
+    display: none !important;
+  }
+  .bold2 {
+    padding: 0px 30px !important;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .pr1,
+  .pr2 {
+    opacity: 9;
+  }
+  .tabs_box {
+    padding: 0;
+  }
+  .bold1 {
+    padding: 0px 40px !important;
+  }
+  .ab1,
+  .ab2 {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .header_content {
+    padding: 20px;
+  }
+  .signup_hero {
+    border-top-left-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .meal_head {
+    font-size: 25px;
+  }
+  .about_btn {
+    font-size: 12px;
+  }
+
+  .meal_para {
+    font-size: 16px;
+  }
+  .about_header {
+    margin-top: 0px;
+  }
+  .meals_cards_hero {
+    padding: 0px 30px;
+  }
+  .calories {
+    font-size: 12px;
+  }
+  .about_main {
+    padding: 30px 30px;
+    padding-bottom: 45px;
+  }
+  .cards_child {
+    display: block !important;
+  }
+  .veg_img {
+    max-width: 250px;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+  }
+  .our_meals {
+    padding: 0px 20px;
+  }
+  .deliver_hero {
+    padding: 0px 40px !important;
+  }
+
+  .deliver_para {
+    /* left: -10px; */
+
+    font-size: 12px;
+  }
+
+  .card_main,
+  .card_bundles {
+    max-width: 160px;
+    padding: 0px 10px;
+  }
+
+  .card_bundles {
+    max-width: 160px;
+    padding: 0px 0px;
+  }
+  .cards_hero {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .card_img {
+    height: 60px;
+  }
+  .card_header {
+    font-size: 16px;
+  }
+  .logo {
+    left: 18px;
+    z-index: 9999;
+  }
+  .cards_hero {
+    gap: 10px;
+  }
+}
