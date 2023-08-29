@@ -1,7 +1,7 @@
 import Title from "../components/Title";
 import Food from "./food";
 
-export default ({ data }) => {
+export default function food({ data }) {
   console.log(data);
   return (
     <div>

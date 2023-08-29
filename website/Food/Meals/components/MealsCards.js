@@ -33,7 +33,7 @@ export default function MealsCards() {
       tagtext: "Spicy",
       hedaer: "How To Regain Your Love Of Delicious Healthy Food",
       date: "07/04/2023",
-      para: "People engage with meal prepping for a host of different reasons, from the most common goal…",
+      para: "People engage with meals prepping for a host of different reasons, from the most common goal…",
       ingredients:
         "Spicy Chicken(168), Sliced Pepper(30), Sliced Red Onion(20), Smoked Paprika(25), Sweet Chilli Sauce(130), Chicken Seasoning(58), Rice(140),",
       allergens:
